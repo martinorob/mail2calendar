@@ -25,6 +25,4 @@ Now opena mail, select an email then click on Mail, Services mail2calendar.
 
 Have a good time!
 
-M.
-
 
