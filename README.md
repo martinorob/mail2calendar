@@ -2,7 +2,9 @@
 Create calendar event from an email using Mail Mac application
 
 # Install
-Save "mail2calendar.workflow" into ~/Library/Services/ folder 
+Download "mail2calendar.zip"
+Unzip it.
+Copu mail2calendar.workflow into ~/Library/Services/ folder 
 
 Open Finder, click on Go and then on Go to Folder 
 or 
